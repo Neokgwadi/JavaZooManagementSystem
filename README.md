@@ -160,7 +160,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 👥 Authors
 
-- Neo Kgwadi - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- Neo Kgwadi - *Initial work* - [NeoKgwadi](https://github.com/Neokgwadi)
 
 ## 🙏 Acknowledgments
 
