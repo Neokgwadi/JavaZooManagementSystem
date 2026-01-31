@@ -166,6 +166,5 @@ Contributions are welcome! Please follow these steps:
 
 - Inspired by real zoo management systems
 - Thanks to the Java community for excellent documentation
-- Icons from various open-source projects
 
 
