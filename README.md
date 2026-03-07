@@ -1,8 +1,8 @@
-# 🦁 Java Zoo Management System
+#  Java Zoo Management System
 
 A comprehensive console-based zoo management system built in Java that allows you to manage animals, enclosures, health records, and more.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -14,7 +14,7 @@ A comprehensive console-based zoo management system built in Java that allows yo
 - [Contributing](#contributing)
 - [License](#license)
 
-## ✨ Features
+##  Features
 
 - **Animal Management**: Add, view, remove, and list animals with detailed information
 - **Multiple Animal Types**: Support for Lions, Dolphins, Elephants, Penguins, and Monkeys
@@ -25,7 +25,7 @@ A comprehensive console-based zoo management system built in Java that allows yo
 - **Feeding System**: Automated feeding functionality for all animals
 - **Unique ID Generation**: Automatic generation of unique IDs for new animals
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Java**: Core programming language
 - **Object-Oriented Design**: Classes, interfaces, inheritance, and polymorphism
@@ -33,7 +33,7 @@ A comprehensive console-based zoo management system built in Java that allows yo
 - **Date/Time API**: LocalDate for tracking animal arrival dates
 - **Collections Framework**: HashMap, ArrayList for data management
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Java Zoo Management System/
@@ -59,12 +59,12 @@ Java Zoo Management System/
 └── README.md                            # This file
 ```
 
-## 📋 Prerequisites
+## Prerequisites
 
 - **Java Development Kit (JDK)**: Version 11 or higher
 - **Command Line Interface**: Windows Command Prompt, PowerShell, or terminal
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository**:
    ```bash
@@ -90,7 +90,7 @@ Java Zoo Management System/
    java -cp target/classes ZooConsoleApp
    ```
 
-## 🎮 Usage
+## Usage
 
 The application provides a menu-driven interface with the following options:
 
@@ -120,7 +120,7 @@ Create enclosures with different habitat types:
 - **Tropical Forest** - For monkeys
 - **Custom** - Define your own habitat type
 
-## 🐾 Available Animals
+## Available Animals
 
 | Animal | Type | Habitat | Diet | Special Ability |
 |--------|------|---------|------|----------------|
@@ -130,7 +130,7 @@ Create enclosures with different habitat types:
 | 🐧 Penguin | Bird | Aquatic | Carnivore | Swimming |
 | 🐒 Monkey | Mammal | Tropical Forest | Omnivore | Running |
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -147,7 +147,7 @@ Contributions are welcome! Please follow these steps:
 - Write clear commit messages
 - Test your changes thoroughly
 
-## 📝 Future Enhancements
+## Future Enhancements
 
 - [ ] Graphical User Interface (GUI)
 - [ ] Database integration (instead of CSV)
@@ -158,13 +158,9 @@ Contributions are welcome! Please follow these steps:
 - [ ] Multi-language support
 
 
-## 👥 Authors
+## Authors
 
 - Neo Kgwadi - *Initial work* - [NeoKgwadi](https://github.com/Neokgwadi)
 
-## 🙏 Acknowledgments
-
-- Inspired by real zoo management systems
-- Thanks to the Java community for excellent documentation
 
 
